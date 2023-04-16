@@ -26,3 +26,11 @@
 
 8. Adres witryny:
 	[ipv4 komputera]:8000
+	
+# Funkcjonalności
+
+- [x] Dołączanie do pokojów
+- [x] Wiadomości tekstowe
+- [ ] Wysyłanie plików
+- [ ] Wyświetlanie aktywnych kanałów
+- [ ] Działanie poza Dockerem 
