@@ -1,4 +1,11 @@
 # Instalacja
+## Automatycznie
+Uruchom setup.sh **w folderze ze sklonowanym repozytorium**
+(/) ./setup.sh
+Możliwe że skrypt trzeba zrobić wykonywalnym
+(/) sudo chmod +x setup.sh
+
+## Ręcznie
 1. Sklonuj to repozytorium
 2. Utwórz środowisko wirtualne venv (testowane na Python3.7, 3.10.10): 
 
