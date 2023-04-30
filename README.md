@@ -1,8 +1,11 @@
 # Instalacja
 ## Automatycznie
-Uruchom setup.sh **w folderze ze sklonowanym repozytorium**
+Uruchom setup.sh **w folderze ze sklonowanym repozytorium**\
+
 (/) ./setup.sh
+
 Możliwe że skrypt trzeba zrobić wykonywalnym
+
 (/) sudo chmod +x setup.sh
 
 ## Ręcznie
